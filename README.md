@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning practical foundations in GitHub, Linux, networking, cloud, and programming.
+
 <!--
 **cbhyman19/cbhyman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
