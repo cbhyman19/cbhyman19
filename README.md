@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning practical skills in GitHub, Linux, networking, cloud, and programming.
+🌱 I'm currently building hands-on skills in GitHub, Linux, networking, cloud computing, and programming.
 
 <!--
 **cbhyman19/cbhyman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
